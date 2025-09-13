@@ -179,30 +179,11 @@ python main.py --mode schedule
 - **Executive Reporting:** High-level KPIs and strategic insights
 - **Multi-Dimensional Analysis:** Cross-functional data exploration
 
-## 📸 Screenshots
-
-### Google Forms Integration
-![Data Flow Architecture](path/to/screenshot1.png)
-![Processing Statistics](path/to/screenshot2.png)
-
-### Bank Loan Analysis
-![Risk Assessment Dashboard](path/to/screenshot3.png)
-![Fraud Detection Analysis](path/to/screenshot4.png)
-
-### Consumer Complaints Dashboard
-![Overview Dashboard](path/to/screenshot5.png)
-![Geographical Analysis](path/to/screenshot6.png)
 
 ## 🤝 Contributing
 
 This project was developed as part of the SURE Trust educational program. While primarily for portfolio demonstration, suggestions and feedback are welcome.
 
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create a Pull Request
 
 ## 📜 License
 
